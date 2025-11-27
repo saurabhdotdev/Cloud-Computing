@@ -1,0 +1,27 @@
+Cloud Security ( Important for the Industry POV)
+
+Identity & Access Management (IAM)
+MFA (Multi-factor authentication)
+Encryption (At-rest + In-transit)
+Least privilege principle
+Security groups, NACLs, firewalls
+
+
+Category	                    Service
+
+Identity	                     IAM
+Encryption	                   KMS
+Secrets                     	 Secrets Manager
+Logging                     	 CloudTrail
+Monitoring	                   CloudWatch
+Threat Detection	             GuardDuty
+Compliance	                   AWS Config
+DDoS                           Protection	Shield
+Network                      	 Security Groups, NACLs
+
+
+Best To Do things-
+1)Use MFA everywhere
+2)Follow least privilege
+3)Encrypt all data
+4)Monitor & log EVERYTHING
