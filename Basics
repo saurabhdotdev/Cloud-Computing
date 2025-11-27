@@ -1,0 +1,32 @@
+***Concepts***
+1)Virtualization
+Turning one physical server into many virtual servers.
+Regions and Availability Zones
+Region = geographic location (e.g., Mumbai)
+Availability Zone (AZ) = data centers inside a region
+More AZs = better reliability.
+
+2) Auto Scaling
+Automatically increases/decreases servers based on traffic.
+
+3) Load Balancer
+Distributes incoming traffic to multiple servers.
+
+4) Serverless
+Write code without managing servers.
+Examples: AWS Lambda, Azure Functions.
+
+
+***Cloud Storage Types***
+1)Object Storage
+Stores data as objects (images, videos, backups).
+Example: AWS S3.
+Highly scalable + cheap.
+
+2)Block Storage
+Used for VMs (like hard drives).
+Example: AWS EBS.
+
+3)File Storage
+Shared file systems.
+Example: AWS EFS.
