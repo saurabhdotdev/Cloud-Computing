@@ -1,0 +1,44 @@
+1. What is Cloud Computing?
+Cloud computing is the on-demand delivery of IT resources such as servers, storage, databases, networking, and software over the internet with pay-as-you-go pricing.
+
+2. What are the main Cloud Service Models?
+IaaS (Infrastructure as a Service): Provides virtual machines, storage, and networks.
+PaaS (Platform as a Service): Provides runtime environment, OS, and development tools.
+SaaS (Software as a Service): Provides ready-to-use software accessed via the internet.
+
+3. What are the Cloud Deployment Models?
+Public Cloud
+Private Cloud
+Hybrid Cloud
+Community Cloud
+
+4. What is Virtualization?
+Virtualization allows one physical machine to run multiple virtual machines using a hypervisor.
+
+5. What is Auto-Scaling?
+A mechanism that automatically adjusts computing resources based on demand.
+
+6. What is Serverless Computing?
+A model where developers deploy functions without managing servers. Examples: AWS Lambda, Azure Functions.
+
+7. What is Load Balancing?
+The process of distributing incoming traffic across multiple servers to improve performance and reliability.
+
+8. What are Containers?
+Lightweight and isolated environments that package an application and its dependencies. Example: Docker.
+
+9. Difference between VM vs Container
+Virtual Machine	Container
+Includes full OS	Shares host OS
+Heavyweight	Lightweight
+Slower startup	Fast startup
+Strong isolation	Moderate isolation
+
+10. What is Kubernetes?
+A container orchestration platform used to deploy, scale, and manage containerized applications.
+
+11. What is Cloud Storage?
+Online storage service accessible over the internet (e.g., Amazon S3, Azure Blob).
+
+12. What is CDN?
+A Content Delivery Network that delivers cached content from geographically distributed servers to reduce latency.
